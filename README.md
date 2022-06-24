@@ -1,5 +1,7 @@
-# digital-nomads-test-task
+## digital-nomads-test-task
 
-### `npm start`
+##### Посмотреть результат: [digital-nomads-test-task.vercel.app](https://digital-nomads-test-task.vercel.app/)
+---
+##### npm start
 
-### `npm run build`
+##### npm run build
